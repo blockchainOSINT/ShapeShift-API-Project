@@ -1,0 +1,1563 @@
+
+Blocks: 489000-489099.txt
+Hits Freq: Counter({1: 2725, 2: 1}) 
+
+Num Tx: 37814 		Process Time: 151.3 mins
+Twos:   31740 		Time Saved  : 24.3 mins 		Percent Found: 100.0%
+Ones:   26474 		Time Saved  : 45.4 mins 		Percent Found: 99.963%
+
+Blocks: 489100-489199.txt
+Hits Freq: Counter({1: 2592, 2: 1}) 
+
+Num Tx: 32253 		Process Time: 129.0 mins
+Twos:   27286 		Time Saved  : 19.9 mins 		Percent Found: 100.0%
+Ones:   23026 		Time Saved  : 36.9 mins 		Percent Found: 99.961%
+
+Blocks: 489200-489299.txt
+Hits Freq: Counter({1: 2568, 2: 1}) 
+
+Num Tx: 40825 		Process Time: 163.3 mins
+Twos:   34537 		Time Saved  : 25.2 mins 		Percent Found: 100.0%
+Ones:   28907 		Time Saved  : 47.7 mins 		Percent Found: 99.961%
+
+Blocks: 489300-489399.txt
+Hits Freq: Counter({1: 2376, 2: 1}) 
+
+Num Tx: 43806 		Process Time: 175.2 mins
+Twos:   36642 		Time Saved  : 28.6 mins 		Percent Found: 100.0%
+Ones:   30298 		Time Saved  : 54.0 mins 		Percent Found: 99.958%
+
+Blocks: 489400-489499.txt
+Hits Freq: Counter({1: 1816, 2: 3}) 
+
+Num Tx: 33286 		Process Time: 133.1 mins
+Twos:   27921 		Time Saved  : 21.4 mins 		Percent Found: 100.0%
+Ones:   23357 		Time Saved  : 39.7 mins 		Percent Found: 99.835%
+
+Blocks: 489500-489599.txt
+Hits Freq: Counter({1: 3922, 2: 1, 3: 1}) 
+
+Num Tx: 46403 		Process Time: 185.6 mins
+Twos:   39141 		Time Saved  : 29.0 mins 		Percent Found: 99.975%
+Ones:   33063 		Time Saved  : 53.3 mins 		Percent Found: 99.949%
+
+Blocks: 489600-489699.txt
+Hits Freq: Counter({1: 4345, 2: 4}) 
+
+Num Tx: 50502 		Process Time: 202.0 mins
+Twos:   42465 		Time Saved  : 32.1 mins 		Percent Found: 100.0%
+Ones:   35785 		Time Saved  : 58.9 mins 		Percent Found: 99.908%
+
+Blocks: 489700-489799.txt
+Hits Freq: Counter({1: 2906, 2: 4}) 
+
+Num Tx: 38506 		Process Time: 154.0 mins
+Twos:   33894 		Time Saved  : 18.4 mins 		Percent Found: 100.0%
+Ones:   28644 		Time Saved  : 39.4 mins 		Percent Found: 99.863%
+
+Blocks: 489800-489899.txt
+Hits Freq: Counter({1: 2665}) 
+
+Num Tx: 33831 		Process Time: 135.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   24239 		Time Saved  : 38.3 mins 		Percent Found: 100.0%
+
+Blocks: 489900-489999.txt
+Hits Freq: Counter({1: 2264}) 
+
+Num Tx: 30773 		Process Time: 123.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   21064 		Time Saved  : 38.8 mins 		Percent Found: 100.0%
+
+Blocks: 490000-490099.txt
+Hits Freq: Counter({1: 2052, 2: 7}) 
+
+Num Tx: 26182 		Process Time: 104.7 mins
+Twos:   21384 		Time Saved  : 19.2 mins 		Percent Found: 100.0%
+Ones:   18108 		Time Saved  : 32.3 mins 		Percent Found: 99.66%
+
+Blocks: 490100-490199.txt
+Hits Freq: Counter({1: 2726}) 
+
+Num Tx: 40327 		Process Time: 161.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   26964 		Time Saved  : 53.4 mins 		Percent Found: 100.0%
+
+Blocks: 490200-490299.txt
+Hits Freq: Counter({1: 2261, 2: 2}) 
+
+Num Tx: 34741 		Process Time: 139.0 mins
+Twos:   28232 		Time Saved  : 26.1 mins 		Percent Found: 100.0%
+Ones:   23464 		Time Saved  : 45.1 mins 		Percent Found: 99.912%
+
+Blocks: 490300-490399.txt
+Hits Freq: Counter({1: 3107, 3: 1, 2: 1}) 
+
+Num Tx: 40838 		Process Time: 163.4 mins
+Twos:   33166 		Time Saved  : 30.7 mins 		Percent Found: 99.968%
+Ones:   28002 		Time Saved  : 51.4 mins 		Percent Found: 99.936%
+
+Blocks: 490400-490499.txt
+Hits Freq: Counter({1: 2709, 2: 1}) 
+
+Num Tx: 44279 		Process Time: 177.1 mins
+Twos:   33364 		Time Saved  : 43.6 mins 		Percent Found: 100.0%
+Ones:   27562 		Time Saved  : 66.9 mins 		Percent Found: 99.963%
+
+Blocks: 490500-490599.txt
+Hits Freq: Counter({1: 2263}) 
+
+Num Tx: 39773 		Process Time: 159.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   27046 		Time Saved  : 50.9 mins 		Percent Found: 100.0%
+
+Blocks: 490600-490699.txt
+Hits Freq: Counter({1: 2367, 2: 2}) 
+
+Num Tx: 37798 		Process Time: 151.2 mins
+Twos:   30078 		Time Saved  : 30.9 mins 		Percent Found: 100.0%
+Ones:   25510 		Time Saved  : 49.2 mins 		Percent Found: 99.916%
+
+Blocks: 490700-490799.txt
+Hits Freq: Counter({1: 1658, 2: 5, 3: 2, 4: 1, 5: 1}) 
+
+Num Tx: 30192 		Process Time: 120.8 mins
+Twos:   22414 		Time Saved  : 31.1 mins 		Percent Found: 99.76%
+Ones:   18738 		Time Saved  : 45.8 mins 		Percent Found: 99.46%
+
+Blocks: 490800-490899.txt
+Hits Freq: Counter({1: 3573, 2: 3}) 
+
+Num Tx: 42080 		Process Time: 168.3 mins
+Twos:   33740 		Time Saved  : 33.3 mins 		Percent Found: 100.0%
+Ones:   28884 		Time Saved  : 52.8 mins 		Percent Found: 99.916%
+
+Blocks: 490900-490999.txt
+Hits Freq: Counter({1: 2819, 2: 2}) 
+
+Num Tx: 40238 		Process Time: 161.0 mins
+Twos:   30262 		Time Saved  : 40.0 mins 		Percent Found: 100.0%
+Ones:   25710 		Time Saved  : 58.2 mins 		Percent Found: 99.929%
+
+Blocks: 491000-491099.txt
+Hits Freq: Counter({1: 2730, 2: 1}) 
+
+Num Tx: 29918 		Process Time: 119.7 mins
+Twos:   24067 		Time Saved  : 23.4 mins 		Percent Found: 100.0%
+Ones:   20665 		Time Saved  : 37.0 mins 		Percent Found: 99.963%
+
+Blocks: 491100-491199.txt
+Hits Freq: Counter({1: 2785, 2: 4, 4: 1}) 
+
+Num Tx: 36024 		Process Time: 144.1 mins
+Twos:   27966 		Time Saved  : 32.2 mins 		Percent Found: 99.964%
+Ones:   23690 		Time Saved  : 49.3 mins 		Percent Found: 99.821%
+
+Blocks: 491200-491299.txt
+Hits Freq: Counter({1: 3150, 2: 1, 3: 1}) 
+
+Num Tx: 36718 		Process Time: 146.9 mins
+Twos:   29106 		Time Saved  : 30.5 mins 		Percent Found: 99.968%
+Ones:   24798 		Time Saved  : 47.7 mins 		Percent Found: 99.937%
+
+Blocks: 491300-491399.txt
+Hits Freq: Counter({1: 4062, 2: 7, 3: 1}) 
+
+Num Tx: 40699 		Process Time: 162.8 mins
+Twos:   32836 		Time Saved  : 31.5 mins 		Percent Found: 99.975%
+Ones:   28198 		Time Saved  : 50.0 mins 		Percent Found: 99.803%
+
+Blocks: 491400-491499.txt
+Hits Freq: Counter({1: 5815, 2: 3}) 
+
+Num Tx: 41689 		Process Time: 166.8 mins
+Twos:   34160 		Time Saved  : 30.2 mins 		Percent Found: 100.0%
+Ones:   29236 		Time Saved  : 49.9 mins 		Percent Found: 99.948%
+
+Blocks: 491500-491599.txt
+Hits Freq: Counter({1: 3597, 2: 1}) 
+
+Num Tx: 36272 		Process Time: 145.1 mins
+Twos:   31038 		Time Saved  : 20.9 mins 		Percent Found: 100.0%
+Ones:   27002 		Time Saved  : 37.1 mins 		Percent Found: 99.972%
+
+Blocks: 491600-491699.txt
+Hits Freq: Counter({1: 2461, 2: 1}) 
+
+Num Tx: 32572 		Process Time: 130.3 mins
+Twos:   27117 		Time Saved  : 21.8 mins 		Percent Found: 100.0%
+Ones:   22973 		Time Saved  : 38.4 mins 		Percent Found: 99.959%
+
+Blocks: 491700-491799.txt
+Hits Freq: Counter({1: 1997, 2: 2}) 
+
+Num Tx: 27380 		Process Time: 109.5 mins
+Twos:   23024 		Time Saved  : 17.4 mins 		Percent Found: 100.0%
+Ones:   19430 		Time Saved  : 31.8 mins 		Percent Found: 99.9%
+
+Blocks: 491800-491899.txt
+Hits Freq: Counter({1: 1265, 2: 1}) 
+
+Num Tx: 23930 		Process Time: 95.7 mins
+Twos:   19519 		Time Saved  : 17.6 mins 		Percent Found: 100.0%
+Ones:   16107 		Time Saved  : 31.3 mins 		Percent Found: 99.921%
+
+Blocks: 491900-491999.txt
+Hits Freq: Counter({1: 3735, 2: 3}) 
+
+Num Tx: 44784 		Process Time: 179.1 mins
+Twos:   36994 		Time Saved  : 31.1 mins 		Percent Found: 100.0%
+Ones:   30368 		Time Saved  : 57.6 mins 		Percent Found: 99.92%
+
+Blocks: 492000-492099.txt
+Hits Freq: Counter({1: 3562, 2: 4, 3: 1}) 
+
+Num Tx: 44802 		Process Time: 179.2 mins
+Twos:   37789 		Time Saved  : 28.0 mins 		Percent Found: 99.972%
+Ones:   31789 		Time Saved  : 52.0 mins 		Percent Found: 99.86%
+
+Blocks: 492100-492199.txt
+Hits Freq: Counter({1: 3605}) 
+
+Num Tx: 36125 		Process Time: 144.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   26690 		Time Saved  : 37.7 mins 		Percent Found: 100.0%
+
+Blocks: 492200-492299.txt
+Hits Freq: Counter({1: 3783, 3: 1}) 
+
+Num Tx: 38350 		Process Time: 153.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   27412 		Time Saved  : 43.8 mins 		Percent Found: 99.974%
+
+Blocks: 492300-492399.txt
+Hits Freq: Counter({1: 3226, 2: 2}) 
+
+Num Tx: 43170 		Process Time: 172.7 mins
+Twos:   34595 		Time Saved  : 34.3 mins 		Percent Found: 100.0%
+Ones:   28779 		Time Saved  : 57.6 mins 		Percent Found: 99.938%
+
+Blocks: 492400-492499.txt
+Hits Freq: Counter({1: 2696}) 
+
+Num Tx: 35126 		Process Time: 140.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   23268 		Time Saved  : 47.4 mins 		Percent Found: 100.0%
+
+Blocks: 492500-492599.txt
+Hits Freq: Counter({1: 3699, 2: 1}) 
+
+Num Tx: 47056 		Process Time: 188.2 mins
+Twos:   38295 		Time Saved  : 35.0 mins 		Percent Found: 100.0%
+Ones:   31699 		Time Saved  : 61.4 mins 		Percent Found: 99.973%
+
+Blocks: 492600-492699.txt
+Hits Freq: Counter({1: 3591}) 
+
+Num Tx: 42612 		Process Time: 170.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   29595 		Time Saved  : 52.0 mins 		Percent Found: 100.0%
+
+Blocks: 492700-492799.txt
+Hits Freq: Counter({1: 5056, 2: 5}) 
+
+Num Tx: 44840 		Process Time: 179.4 mins
+Twos:   36734 		Time Saved  : 32.5 mins 		Percent Found: 100.0%
+Ones:   30226 		Time Saved  : 58.5 mins 		Percent Found: 99.901%
+
+Blocks: 492800-492899.txt
+Hits Freq: Counter({1: 5635, 2: 2}) 
+
+Num Tx: 47286 		Process Time: 189.1 mins
+Twos:   40228 		Time Saved  : 28.2 mins 		Percent Found: 100.0%
+Ones:   34086 		Time Saved  : 52.8 mins 		Percent Found: 99.965%
+
+Blocks: 492900-492999.txt
+Hits Freq: Counter({1: 6629, 2: 5}) 
+
+Num Tx: 52166 		Process Time: 208.7 mins
+Twos:   43863 		Time Saved  : 33.2 mins 		Percent Found: 100.0%
+Ones:   36537 		Time Saved  : 62.6 mins 		Percent Found: 99.925%
+
+Blocks: 493000-493099.txt
+Hits Freq: Counter({1: 3705, 2: 2}) 
+
+Num Tx: 39236 		Process Time: 156.9 mins
+Twos:   33706 		Time Saved  : 22.1 mins 		Percent Found: 100.0%
+Ones:   28228 		Time Saved  : 44.0 mins 		Percent Found: 99.946%
+
+Blocks: 493100-493199.txt
+Hits Freq: Counter({1: 2668}) 
+
+Num Tx: 32573 		Process Time: 130.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   22464 		Time Saved  : 40.4 mins 		Percent Found: 100.0%
+
+Blocks: 493200-493299.txt
+Hits Freq: Counter({1: 3595, 2: 1}) 
+
+Num Tx: 36790 		Process Time: 147.2 mins
+Twos:   31181 		Time Saved  : 22.5 mins 		Percent Found: 100.0%
+Ones:   26221 		Time Saved  : 42.3 mins 		Percent Found: 99.972%
+
+Blocks: 493300-493399.txt
+Hits Freq: Counter({1: 5672, 2: 3}) 
+
+Num Tx: 48407 		Process Time: 193.6 mins
+Twos:   40427 		Time Saved  : 31.9 mins 		Percent Found: 100.0%
+Ones:   33707 		Time Saved  : 58.8 mins 		Percent Found: 99.947%
+
+Blocks: 493400-493499.txt
+Hits Freq: Counter({1: 3938, 2: 4}) 
+
+Num Tx: 43788 		Process Time: 175.2 mins
+Twos:   36570 		Time Saved  : 28.9 mins 		Percent Found: 100.0%
+Ones:   29616 		Time Saved  : 56.7 mins 		Percent Found: 99.899%
+
+Blocks: 493500-493599.txt
+Hits Freq: Counter({1: 3323, 2: 1}) 
+
+Num Tx: 40162 		Process Time: 160.6 mins
+Twos:   34330 		Time Saved  : 23.3 mins 		Percent Found: 100.0%
+Ones:   28682 		Time Saved  : 45.9 mins 		Percent Found: 99.97%
+
+Blocks: 493600-493699.txt
+Hits Freq: Counter({1: 10}) 
+
+Num Tx: 40613 		Process Time: 162.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   27654 		Time Saved  : 51.9 mins 		Percent Found: 100.0%
+
+Blocks: 493700-493799.txt
+Hits Freq: Counter({1: 6341, 2: 8}) 
+
+Num Tx: 45520 		Process Time: 182.1 mins
+Twos:   39075 		Time Saved  : 25.8 mins 		Percent Found: 100.0%
+Ones:   33371 		Time Saved  : 48.6 mins 		Percent Found: 99.874%
+
+Blocks: 493800-493899.txt
+Hits Freq: Counter({1: 7541, 2: 2}) 
+
+Num Tx: 50374 		Process Time: 201.5 mins
+Twos:   44116 		Time Saved  : 25.0 mins 		Percent Found: 100.0%
+Ones:   37540 		Time Saved  : 51.3 mins 		Percent Found: 99.973%
+
+Blocks: 493900-493999.txt
+Hits Freq: Counter({1: 11688, 2: 7, 4: 1}) 
+
+Num Tx: 57056 		Process Time: 228.2 mins
+Twos:   48632 		Time Saved  : 33.7 mins 		Percent Found: 99.991%
+Ones:   40960 		Time Saved  : 64.4 mins 		Percent Found: 99.932%
+
+Blocks: 494000-494099.txt
+Hits Freq: Counter({1: 12586, 2: 22, 3: 2, 4: 1, 5: 1, 6: 1}) 
+
+Num Tx: 60392 		Process Time: 241.6 mins
+Twos:   50640 		Time Saved  : 39.0 mins 		Percent Found: 99.96%
+Ones:   42802 		Time Saved  : 70.4 mins 		Percent Found: 99.786%
+
+Blocks: 494100-494199.txt
+Hits Freq: Counter({1: 5469, 2: 7, 3: 4}) 
+
+Num Tx: 47926 		Process Time: 191.7 mins
+Twos:   40721 		Time Saved  : 28.8 mins 		Percent Found: 99.927%
+Ones:   34077 		Time Saved  : 55.4 mins 		Percent Found: 99.799%
+
+Blocks: 494200-494299.txt
+Hits Freq: Counter({1: 3531, 2: 2, 15: 1}) 
+
+Num Tx: 46326 		Process Time: 185.3 mins
+Twos:   38413 		Time Saved  : 31.6 mins 		Percent Found: 99.972%
+Ones:   32273 		Time Saved  : 56.2 mins 		Percent Found: 99.915%
+
+Blocks: 494300-494399.txt
+Hits Freq: Counter({1: 5287, 2: 2}) 
+
+Num Tx: 45365 		Process Time: 181.5 mins
+Twos:   38447 		Time Saved  : 27.7 mins 		Percent Found: 100.0%
+Ones:   32283 		Time Saved  : 52.4 mins 		Percent Found: 99.962%
+
+Blocks: 494400-494499.txt
+Hits Freq: Counter({1: 4891, 2: 5}) 
+
+Num Tx: 43530 		Process Time: 174.1 mins
+Twos:   35497 		Time Saved  : 32.1 mins 		Percent Found: 100.0%
+Ones:   29931 		Time Saved  : 54.4 mins 		Percent Found: 99.898%
+
+Blocks: 494500-494599.txt
+Hits Freq: Counter({1: 3674, 2: 6, 3: 2}) 
+
+Num Tx: 38944 		Process Time: 155.8 mins
+Twos:   32685 		Time Saved  : 25.1 mins 		Percent Found: 99.946%
+Ones:   27627 		Time Saved  : 45.3 mins 		Percent Found: 99.783%
+
+Blocks: 494600-494699.txt
+Hits Freq: Counter({1: 4506, 2: 4}) 
+
+Num Tx: 44745 		Process Time: 179.0 mins
+Twos:   36749 		Time Saved  : 32.0 mins 		Percent Found: 100.0%
+Ones:   30935 		Time Saved  : 55.3 mins 		Percent Found: 99.911%
+
+Blocks: 494700-494799.txt
+Hits Freq: Counter({1: 3703, 3: 1}) 
+
+Num Tx: 38577 		Process Time: 154.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   26237 		Time Saved  : 49.4 mins 		Percent Found: 99.973%
+
+Blocks: 494800-494899.txt
+Hits Freq: Counter({1: 4953, 3: 1, 2: 1}) 
+
+Num Tx: 40298 		Process Time: 161.2 mins
+Twos:   33994 		Time Saved  : 25.2 mins 		Percent Found: 99.98%
+Ones:   29026 		Time Saved  : 45.1 mins 		Percent Found: 99.96%
+
+Blocks: 494900-494999.txt
+Hits Freq: Counter({1: 4294}) 
+
+Num Tx: 39930 		Process Time: 159.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   28539 		Time Saved  : 45.5 mins 		Percent Found: 100.0%
+
+Blocks: 495000-495099.txt
+Hits Freq: Counter({1: 3672, 2: 3}) 
+
+Num Tx: 31526 		Process Time: 126.1 mins
+Twos:   26319 		Time Saved  : 20.8 mins 		Percent Found: 100.0%
+Ones:   21915 		Time Saved  : 38.4 mins 		Percent Found: 99.918%
+
+Blocks: 495100-495199.txt
+Hits Freq: Counter({1: 4131, 2: 6}) 
+
+Num Tx: 39809 		Process Time: 159.2 mins
+Twos:   34012 		Time Saved  : 23.2 mins 		Percent Found: 100.0%
+Ones:   28776 		Time Saved  : 44.1 mins 		Percent Found: 99.855%
+
+Blocks: 495200-495299.txt
+Hits Freq: Counter({1: 3322, 2: 1}) 
+
+Num Tx: 41024 		Process Time: 164.1 mins
+Twos:   33122 		Time Saved  : 31.6 mins 		Percent Found: 100.0%
+Ones:   27330 		Time Saved  : 54.8 mins 		Percent Found: 99.97%
+
+Blocks: 495300-495399.txt
+Hits Freq: Counter({1: 3969, 2: 1}) 
+
+Num Tx: 40878 		Process Time: 163.5 mins
+Twos:   33421 		Time Saved  : 29.8 mins 		Percent Found: 100.0%
+Ones:   27779 		Time Saved  : 52.4 mins 		Percent Found: 99.975%
+
+Blocks: 495400-495499.txt
+Hits Freq: Counter({1: 4025, 2: 3}) 
+
+Num Tx: 43851 		Process Time: 175.4 mins
+Twos:   36099 		Time Saved  : 31.0 mins 		Percent Found: 100.0%
+Ones:   30321 		Time Saved  : 54.1 mins 		Percent Found: 99.926%
+
+Blocks: 495500-495599.txt
+Hits Freq: Counter({1: 3904, 2: 3}) 
+
+Num Tx: 42345 		Process Time: 169.4 mins
+Twos:   36089 		Time Saved  : 25.0 mins 		Percent Found: 100.0%
+Ones:   28733 		Time Saved  : 54.5 mins 		Percent Found: 99.923%
+
+Blocks: 495600-495699.txt
+Hits Freq: Counter({1: 6263, 2: 4}) 
+
+Num Tx: 53489 		Process Time: 214.0 mins
+Twos:   45127 		Time Saved  : 33.5 mins 		Percent Found: 100.0%
+Ones:   37509 		Time Saved  : 64.0 mins 		Percent Found: 99.936%
+
+Blocks: 496100-496199.txt
+Hits Freq: Counter({1: 4898, 2: 5}) 
+
+Num Tx: 45236 		Process Time: 180.9 mins
+Twos:   37387 		Time Saved  : 31.4 mins 		Percent Found: 100.0%
+Ones:   31593 		Time Saved  : 54.5 mins 		Percent Found: 99.898%
+
+Blocks: 499200-499299.txt
+Hits Freq: Counter({1: 12209, 2: 36, 3: 4, 5: 2, 4: 2}) 
+
+Num Tx: 62882 		Process Time: 251.5 mins
+Twos:   53045 		Time Saved  : 39.3 mins 		Percent Found: 99.935%
+Ones:   45813 		Time Saved  : 68.2 mins 		Percent Found: 99.641%
+
+Blocks: 499300-499399.txt
+Hits Freq: Counter({1: 11087, 2: 36, 4: 2, 3: 2}) 
+
+Num Tx: 61506 		Process Time: 246.0 mins
+Twos:   51172 		Time Saved  : 41.3 mins 		Percent Found: 99.964%
+Ones:   44594 		Time Saved  : 67.6 mins 		Percent Found: 99.641%
+
+Blocks: 499400-499499.txt
+Hits Freq: Counter({1: 9995, 2: 33, 3: 1}) 
+
+Num Tx: 61502 		Process Time: 246.0 mins
+Twos:   50605 		Time Saved  : 43.6 mins 		Percent Found: 99.99%
+Ones:   43477 		Time Saved  : 72.1 mins 		Percent Found: 99.661%
+
+Blocks: 499500-499599.txt
+Hits Freq: Counter({1: 7502, 2: 10, 3: 1}) 
+
+Num Tx: 48186 		Process Time: 192.7 mins
+Twos:   41090 		Time Saved  : 28.3 mins 		Percent Found: 99.987%
+Ones:   35272 		Time Saved  : 51.6 mins 		Percent Found: 99.854%
+
+Blocks: 499600-499699.txt
+Hits Freq: Counter({1: 8595, 2: 13}) 
+
+Num Tx: 60457 		Process Time: 241.8 mins
+Twos:   50197 		Time Saved  : 41.0 mins 		Percent Found: 100.0%
+Ones:   43403 		Time Saved  : 68.2 mins 		Percent Found: 99.849%
+
+Blocks: 499700-499799.txt
+Hits Freq: Counter({1: 5739, 2: 7, 4: 1, 3: 1}) 
+
+Num Tx: 47211 		Process Time: 188.8 mins
+Twos:   38889 		Time Saved  : 33.2 mins 		Percent Found: 99.965%
+Ones:   33059 		Time Saved  : 56.6 mins 		Percent Found: 99.843%
+
+Blocks: 499800-499899.txt
+Hits Freq: Counter({1: 7344, 2: 15, 3: 2}) 
+
+Num Tx: 55571 		Process Time: 222.3 mins
+Twos:   46413 		Time Saved  : 36.6 mins 		Percent Found: 99.973%
+Ones:   40193 		Time Saved  : 61.5 mins 		Percent Found: 99.769%
+
+Blocks: 499900-499999.txt
+Hits Freq: Counter({1: 6839, 2: 8, 5: 1}) 
+
+Num Tx: 55919 		Process Time: 223.7 mins
+Twos:   44275 		Time Saved  : 46.6 mins 		Percent Found: 99.985%
+Ones:   37245 		Time Saved  : 74.7 mins 		Percent Found: 99.869%
+
+Blocks: 500000-500099.txt
+Hits Freq: Counter({1: 13005, 2: 10, 3: 3, 4: 1}) 
+
+Num Tx: 68384 		Process Time: 273.5 mins
+Twos:   56365 		Time Saved  : 48.0 mins 		Percent Found: 99.969%
+Ones:   49035 		Time Saved  : 77.4 mins 		Percent Found: 99.892%
+
+Blocks: 500100-500199.txt
+Hits Freq: Counter({1: 22864, 2: 30, 3: 2}) 
+
+Num Tx: 83624 		Process Time: 334.5 mins
+Twos:   70517 		Time Saved  : 52.4 mins 		Percent Found: 99.991%
+Ones:   61865 		Time Saved  : 87.0 mins 		Percent Found: 99.86%
+
+Blocks: 500200-500299.txt
+Hits Freq: Counter({1: 22922, 2: 28, 3: 6, 4: 2, 5: 1, 7: 1}) 
+
+Num Tx: 80516 		Process Time: 322.1 mins
+Twos:   68181 		Time Saved  : 49.4 mins 		Percent Found: 99.956%
+Ones:   59805 		Time Saved  : 82.9 mins 		Percent Found: 99.834%
+
+Blocks: 500300-500399.txt
+Hits Freq: Counter({1: 13478, 2: 24, 3: 7, 4: 2}) 
+
+Num Tx: 66867 		Process Time: 267.5 mins
+Twos:   54783 		Time Saved  : 48.4 mins 		Percent Found: 99.933%
+Ones:   47559 		Time Saved  : 77.3 mins 		Percent Found: 99.756%
+
+Blocks: 500400-500499.txt
+Hits Freq: Counter({1: 12572, 2: 17}) 
+
+Num Tx: 66923 		Process Time: 267.7 mins
+Twos:   55767 		Time Saved  : 44.6 mins 		Percent Found: 100.0%
+Ones:   47581 		Time Saved  : 77.4 mins 		Percent Found: 99.865%
+
+Blocks: 500500-500599.txt
+Hits Freq: Counter({1: 7785, 2: 10, 3: 2, 4: 1}) 
+
+Num Tx: 60214 		Process Time: 240.9 mins
+Twos:   48714 		Time Saved  : 46.0 mins 		Percent Found: 99.962%
+Ones:   41276 		Time Saved  : 75.8 mins 		Percent Found: 99.833%
+
+Blocks: 500600-500699.txt
+Hits Freq: Counter({1: 5562, 2: 5}) 
+
+Num Tx: 49806 		Process Time: 199.2 mins
+Twos:   41024 		Time Saved  : 35.1 mins 		Percent Found: 100.0%
+Ones:   34728 		Time Saved  : 60.3 mins 		Percent Found: 99.91%
+
+Blocks: 500700-500799.txt
+Hits Freq: Counter({1: 4470, 2: 3, 3: 2, 5: 1, 7: 1}) 
+
+Num Tx: 46966 		Process Time: 187.9 mins
+Twos:   38661 		Time Saved  : 33.3 mins 		Percent Found: 99.911%
+Ones:   33261 		Time Saved  : 54.9 mins 		Percent Found: 99.844%
+
+Blocks: 500800-500899.txt
+Hits Freq: Counter({1: 3363, 2: 3, 3: 2}) 
+
+Num Tx: 39138 		Process Time: 156.6 mins
+Twos:   32208 		Time Saved  : 27.8 mins 		Percent Found: 99.941%
+Ones:   27278 		Time Saved  : 47.5 mins 		Percent Found: 99.852%
+
+Blocks: 500900-500999.txt
+Hits Freq: Counter({1: 2809, 2: 2}) 
+
+Num Tx: 40346 		Process Time: 161.4 mins
+Twos:   31093 		Time Saved  : 37.0 mins 		Percent Found: 100.0%
+Ones:   25671 		Time Saved  : 58.7 mins 		Percent Found: 99.929%
+
+Blocks: 501000-501099.txt
+Hits Freq: Counter({1: 2716, 2: 5}) 
+
+Num Tx: 35684 		Process Time: 142.7 mins
+Twos:   28671 		Time Saved  : 28.0 mins 		Percent Found: 100.0%
+Ones:   24209 		Time Saved  : 45.9 mins 		Percent Found: 99.816%
+
+Blocks: 501100-501199.txt
+Hits Freq: Counter({1: 3756, 2: 1}) 
+
+Num Tx: 45825 		Process Time: 183.3 mins
+Twos:   36969 		Time Saved  : 35.4 mins 		Percent Found: 100.0%
+Ones:   31341 		Time Saved  : 57.9 mins 		Percent Found: 99.973%
+
+Blocks: 501200-501299.txt
+Hits Freq: Counter({1: 3336, 2: 3}) 
+
+Num Tx: 44765 		Process Time: 179.1 mins
+Twos:   34552 		Time Saved  : 40.9 mins 		Percent Found: 100.0%
+Ones:   29148 		Time Saved  : 62.5 mins 		Percent Found: 99.91%
+
+Blocks: 501300-501399.txt
+Hits Freq: Counter({1: 3786, 2: 3}) 
+
+Num Tx: 47407 		Process Time: 189.6 mins
+Twos:   38032 		Time Saved  : 37.5 mins 		Percent Found: 100.0%
+Ones:   32438 		Time Saved  : 59.8 mins 		Percent Found: 99.921%
+
+Blocks: 501400-501499.txt
+Hits Freq: Counter({1: 4089, 2: 8, 3: 1}) 
+
+Num Tx: 51012 		Process Time: 204.0 mins
+Twos:   41013 		Time Saved  : 39.9 mins 		Percent Found: 99.976%
+Ones:   34687 		Time Saved  : 65.3 mins 		Percent Found: 99.78%
+
+Blocks: 501500-501599.txt
+Hits Freq: Counter({1: 3984, 2: 14}) 
+
+Num Tx: 40759 		Process Time: 163.0 mins
+Twos:   32586 		Time Saved  : 32.7 mins 		Percent Found: 100.0%
+Ones:   27488 		Time Saved  : 53.0 mins 		Percent Found: 99.65%
+
+Blocks: 501600-501699.txt
+Hits Freq: Counter({1: 5839, 2: 15, 3: 4}) 
+
+Num Tx: 47543 		Process Time: 190.2 mins
+Twos:   39415 		Time Saved  : 32.5 mins 		Percent Found: 99.932%
+Ones:   33613 		Time Saved  : 55.7 mins 		Percent Found: 99.676%
+
+Blocks: 501700-501799.txt
+Hits Freq: Counter({1: 4178, 2: 10, 3: 2, 5: 2}) 
+
+Num Tx: 43561 		Process Time: 174.2 mins
+Twos:   36054 		Time Saved  : 30.0 mins 		Percent Found: 99.905%
+Ones:   30928 		Time Saved  : 50.5 mins 		Percent Found: 99.666%
+
+Blocks: 501800-501899.txt
+Hits Freq: Counter({1: 2789, 2: 5}) 
+
+Num Tx: 33626 		Process Time: 134.5 mins
+Twos:   27417 		Time Saved  : 24.8 mins 		Percent Found: 100.0%
+Ones:   23057 		Time Saved  : 42.3 mins 		Percent Found: 99.821%
+
+Blocks: 501900-501999.txt
+Hits Freq: Counter({1: 2436, 2: 4}) 
+
+Num Tx: 30629 		Process Time: 122.5 mins
+Twos:   24941 		Time Saved  : 22.7 mins 		Percent Found: 100.0%
+Ones:   21607 		Time Saved  : 36.1 mins 		Percent Found: 99.836%
+
+Blocks: 502000-502099.txt
+Hits Freq: Counter({1: 2817}) 
+
+Num Tx: 32162 		Process Time: 128.6 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   22488 		Time Saved  : 38.6 mins 		Percent Found: 100.0%
+
+Blocks: 502100-502199.txt
+Hits Freq: Counter({1: 3698, 2: 2}) 
+
+Num Tx: 34171 		Process Time: 136.7 mins
+Twos:   28067 		Time Saved  : 24.4 mins 		Percent Found: 100.0%
+Ones:   23809 		Time Saved  : 41.5 mins 		Percent Found: 99.946%
+
+Blocks: 502200-502299.txt
+Hits Freq: Counter({1: 5303, 2: 3}) 
+
+Num Tx: 52773 		Process Time: 211.1 mins
+Twos:   42650 		Time Saved  : 40.5 mins 		Percent Found: 100.0%
+Ones:   36446 		Time Saved  : 65.3 mins 		Percent Found: 99.943%
+
+Blocks: 502300-502399.txt
+Hits Freq: Counter({1: 4972, 2: 7}) 
+
+Num Tx: 56105 		Process Time: 224.4 mins
+Twos:   41539 		Time Saved  : 58.2 mins 		Percent Found: 100.0%
+Ones:   35279 		Time Saved  : 83.3 mins 		Percent Found: 99.859%
+
+Blocks: 502400-502499.txt
+Hits Freq: Counter({1: 5885, 2: 6, 3: 1}) 
+
+Num Tx: 54683 		Process Time: 218.7 mins
+Twos:   43232 		Time Saved  : 45.8 mins 		Percent Found: 99.983%
+Ones:   37634 		Time Saved  : 68.2 mins 		Percent Found: 99.881%
+
+Blocks: 502500-502599.txt
+Hits Freq: Counter({1: 7287, 2: 15, 6: 1}) 
+
+Num Tx: 58618 		Process Time: 234.5 mins
+Twos:   43113 		Time Saved  : 62.0 mins 		Percent Found: 99.986%
+Ones:   36347 		Time Saved  : 89.1 mins 		Percent Found: 99.781%
+
+Blocks: 502600-502699.txt
+Hits Freq: Counter({1: 5581, 2: 9, 3: 1}) 
+
+Num Tx: 59162 		Process Time: 236.6 mins
+Twos:   42201 		Time Saved  : 67.8 mins 		Percent Found: 99.982%
+Ones:   35893 		Time Saved  : 93.0 mins 		Percent Found: 99.821%
+
+Blocks: 502700-502799.txt
+Hits Freq: Counter({1: 5055, 2: 3, 3: 1}) 
+
+Num Tx: 59403 		Process Time: 237.6 mins
+Twos:   42954 		Time Saved  : 65.8 mins 		Percent Found: 99.98%
+Ones:   36002 		Time Saved  : 93.6 mins 		Percent Found: 99.921%
+
+Blocks: 502800-502899.txt
+Hits Freq: Counter({1: 4423, 2: 5, 3: 2}) 
+
+Num Tx: 47799 		Process Time: 191.2 mins
+Twos:   36559 		Time Saved  : 45.0 mins 		Percent Found: 99.955%
+Ones:   31303 		Time Saved  : 66.0 mins 		Percent Found: 99.842%
+
+Blocks: 502900-502999.txt
+Hits Freq: Counter({1: 4136, 2: 9, 3: 1, 4: 1}) 
+
+Num Tx: 46066 		Process Time: 184.3 mins
+Twos:   36664 		Time Saved  : 37.6 mins 		Percent Found: 99.952%
+Ones:   31866 		Time Saved  : 56.8 mins 		Percent Found: 99.735%
+
+Blocks: 503000-503099.txt
+Hits Freq: Counter({1: 6086, 2: 17, 3: 1}) 
+
+Num Tx: 54457 		Process Time: 217.8 mins
+Twos:   40852 		Time Saved  : 54.4 mins 		Percent Found: 99.984%
+Ones:   34836 		Time Saved  : 78.5 mins 		Percent Found: 99.705%
+
+Blocks: 503100-503199.txt
+Hits Freq: Counter({1: 5611, 2: 9}) 
+
+Num Tx: 52383 		Process Time: 209.5 mins
+Twos:   37968 		Time Saved  : 57.6 mins 		Percent Found: 100.0%
+Ones:   31838 		Time Saved  : 82.1 mins 		Percent Found: 99.84%
+
+Blocks: 503200-503299.txt
+Hits Freq: Counter({1: 5366, 2: 4, 3: 2, 4: 1}) 
+
+Num Tx: 53646 		Process Time: 214.6 mins
+Twos:   41406 		Time Saved  : 49.0 mins 		Percent Found: 99.944%
+Ones:   35120 		Time Saved  : 74.1 mins 		Percent Found: 99.87%
+
+Blocks: 503300-503399.txt
+Hits Freq: Counter({1: 6003, 2: 2}) 
+
+Num Tx: 58914 		Process Time: 235.7 mins
+Twos:   43940 		Time Saved  : 59.9 mins 		Percent Found: 100.0%
+Ones:   36898 		Time Saved  : 88.1 mins 		Percent Found: 99.967%
+
+Blocks: 503400-503499.txt
+Hits Freq: Counter({1: 6362, 2: 5}) 
+
+Num Tx: 48529 		Process Time: 194.1 mins
+Twos:   37747 		Time Saved  : 43.1 mins 		Percent Found: 100.0%
+Ones:   32065 		Time Saved  : 65.8 mins 		Percent Found: 99.921%
+
+Blocks: 503500-503599.txt
+Hits Freq: Counter({1: 7016, 2: 3}) 
+
+Num Tx: 58785 		Process Time: 235.1 mins
+Twos:   44948 		Time Saved  : 55.3 mins 		Percent Found: 100.0%
+Ones:   37778 		Time Saved  : 84.0 mins 		Percent Found: 99.957%
+
+Blocks: 503600-503699.txt
+Hits Freq: Counter({1: 2930, 2: 1}) 
+
+Num Tx: 36679 		Process Time: 146.7 mins
+Twos:   27956 		Time Saved  : 34.9 mins 		Percent Found: 100.0%
+Ones:   23230 		Time Saved  : 53.8 mins 		Percent Found: 99.966%
+
+Blocks: 503700-503799.txt
+Hits Freq: Counter({1: 2970, 2: 2}) 
+
+Num Tx: 38558 		Process Time: 154.2 mins
+Twos:   30299 		Time Saved  : 33.0 mins 		Percent Found: 100.0%
+Ones:   25059 		Time Saved  : 54.0 mins 		Percent Found: 99.933%
+
+Blocks: 503800-503899.txt
+Hits Freq: Counter({1: 3428, 2: 1}) 
+
+Num Tx: 45298 		Process Time: 181.2 mins
+Twos:   34542 		Time Saved  : 43.0 mins 		Percent Found: 100.0%
+Ones:   28478 		Time Saved  : 67.3 mins 		Percent Found: 99.971%
+
+Blocks: 503900-503999.txt
+Hits Freq: Counter({1: 3140, 3: 1}) 
+
+Num Tx: 37667 		Process Time: 150.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   25157 		Time Saved  : 50.1 mins 		Percent Found: 99.968%
+
+Blocks: 504000-504099.txt
+Hits Freq: Counter({1: 5693, 2: 3}) 
+
+Num Tx: 48476 		Process Time: 193.9 mins
+Twos:   37752 		Time Saved  : 42.9 mins 		Percent Found: 100.0%
+Ones:   32040 		Time Saved  : 65.7 mins 		Percent Found: 99.947%
+
+Blocks: 504100-504199.txt
+Hits Freq: Counter({1: 3188, 2: 2, 3: 2}) 
+
+Num Tx: 36390 		Process Time: 145.6 mins
+Twos:   28907 		Time Saved  : 30.0 mins 		Percent Found: 99.937%
+Ones:   24167 		Time Saved  : 48.9 mins 		Percent Found: 99.875%
+
+Blocks: 504200-504299.txt
+Hits Freq: Counter({1: 3499, 2: 1}) 
+
+Num Tx: 46524 		Process Time: 186.1 mins
+Twos:   35942 		Time Saved  : 42.3 mins 		Percent Found: 100.0%
+Ones:   29836 		Time Saved  : 66.8 mins 		Percent Found: 99.971%
+
+Blocks: 504300-504399.txt
+Hits Freq: Counter({1: 3587, 2: 4}) 
+
+Num Tx: 48405 		Process Time: 193.6 mins
+Twos:   37019 		Time Saved  : 45.5 mins 		Percent Found: 100.0%
+Ones:   30619 		Time Saved  : 71.1 mins 		Percent Found: 99.889%
+
+Blocks: 504400-504499.txt
+Hits Freq: Counter({1: 4197, 2: 1}) 
+
+Num Tx: 47188 		Process Time: 188.8 mins
+Twos:   35955 		Time Saved  : 45.0 mins 		Percent Found: 100.0%
+Ones:   29531 		Time Saved  : 70.7 mins 		Percent Found: 99.976%
+
+Blocks: 504500-504599.txt
+Hits Freq: Counter({1: 3392, 2: 4}) 
+
+Num Tx: 43843 		Process Time: 175.4 mins
+Twos:   34214 		Time Saved  : 38.5 mins 		Percent Found: 100.0%
+Ones:   28962 		Time Saved  : 59.6 mins 		Percent Found: 99.882%
+
+Blocks: 504600-504699.txt
+Hits Freq: Counter({1: 3423, 3: 1, 2: 1}) 
+
+Num Tx: 42357 		Process Time: 169.4 mins
+Twos:   30782 		Time Saved  : 46.3 mins 		Percent Found: 99.971%
+Ones:   25290 		Time Saved  : 68.2 mins 		Percent Found: 99.942%
+
+Blocks: 509400-509499.txt
+Hits Freq: Counter({1: 2203}) 
+
+Num Tx: 35884 		Process Time: 143.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   24763 		Time Saved  : 44.4 mins 		Percent Found: 100.0%
+
+Blocks: 509500-509599.txt
+Hits Freq: Counter({1: 1542}) 
+
+Num Tx: 26744 		Process Time: 107.0 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   18422 		Time Saved  : 33.3 mins 		Percent Found: 100.0%
+
+Blocks: 509600-509699.txt
+Hits Freq: Counter({1: 1974, 2: 3}) 
+
+Num Tx: 35033 		Process Time: 140.1 mins
+Twos:   29818 		Time Saved  : 20.8 mins 		Percent Found: 100.0%
+Ones:   24780 		Time Saved  : 41.0 mins 		Percent Found: 99.848%
+
+Blocks: 509700-509799.txt
+Hits Freq: Counter({1: 1466}) 
+
+Num Tx: 26416 		Process Time: 105.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   17663 		Time Saved  : 35.0 mins 		Percent Found: 100.0%
+
+Blocks: 509800-509899.txt
+Hits Freq: Counter({1: 1219, 2: 2}) 
+
+Num Tx: 24820 		Process Time: 99.3 mins
+Twos:   20551 		Time Saved  : 17.1 mins 		Percent Found: 100.0%
+Ones:   16975 		Time Saved  : 31.4 mins 		Percent Found: 99.836%
+
+Blocks: 509900-509999.txt
+Hits Freq: Counter({1: 2046, 2: 1}) 
+
+Num Tx: 39385 		Process Time: 157.5 mins
+Twos:   32326 		Time Saved  : 28.2 mins 		Percent Found: 100.0%
+Ones:   26772 		Time Saved  : 50.4 mins 		Percent Found: 99.951%
+
+Blocks: 510000-510099.txt
+Hits Freq: Counter({1: 2250, 2: 1}) 
+
+Num Tx: 40720 		Process Time: 162.9 mins
+Twos:   33085 		Time Saved  : 30.6 mins 		Percent Found: 100.0%
+Ones:   27097 		Time Saved  : 54.5 mins 		Percent Found: 99.956%
+
+Blocks: 510100-510199.txt
+Hits Freq: Counter({1: 1678}) 
+
+Num Tx: 31912 		Process Time: 127.6 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   21329 		Time Saved  : 42.3 mins 		Percent Found: 100.0%
+
+Blocks: 510200-510299.txt
+Hits Freq: Counter({1: 1766, 2: 1}) 
+
+Num Tx: 35833 		Process Time: 143.3 mins
+Twos:   29204 		Time Saved  : 26.5 mins 		Percent Found: 100.0%
+Ones:   23860 		Time Saved  : 47.9 mins 		Percent Found: 99.943%
+
+Blocks: 510300-510399.txt
+Hits Freq: Counter({1: 1241, 2: 1}) 
+
+Num Tx: 30188 		Process Time: 120.8 mins
+Twos:   24278 		Time Saved  : 23.7 mins 		Percent Found: 100.0%
+Ones:   19756 		Time Saved  : 41.8 mins 		Percent Found: 99.919%
+
+Blocks: 510400-510499.txt
+Hits Freq: Counter({1: 1827, 2: 1}) 
+
+Num Tx: 38119 		Process Time: 152.5 mins
+Twos:   31680 		Time Saved  : 25.8 mins 		Percent Found: 100.0%
+Ones:   25996 		Time Saved  : 48.5 mins 		Percent Found: 99.945%
+
+Blocks: 510500-510599.txt
+Hits Freq: Counter({1: 2128, 2: 1}) 
+
+Num Tx: 38174 		Process Time: 152.7 mins
+Twos:   31407 		Time Saved  : 27.1 mins 		Percent Found: 100.0%
+Ones:   25705 		Time Saved  : 49.9 mins 		Percent Found: 99.953%
+
+Blocks: 510600-510699.txt
+Hits Freq: Counter({1: 1331}) 
+
+Num Tx: 27909 		Process Time: 111.6 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   18893 		Time Saved  : 36.0 mins 		Percent Found: 100.0%
+
+Blocks: 510700-510799.txt
+Hits Freq: Counter({1: 1179}) 
+
+Num Tx: 26999 		Process Time: 108.0 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   19134 		Time Saved  : 31.5 mins 		Percent Found: 100.0%
+
+Blocks: 510800-510899.txt
+Hits Freq: Counter({1: 1226}) 
+
+Num Tx: 24315 		Process Time: 97.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   16137 		Time Saved  : 32.8 mins 		Percent Found: 100.0%
+
+Blocks: 510900-510999.txt
+Hits Freq: Counter({1: 1406}) 
+
+Num Tx: 32616 		Process Time: 130.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   21493 		Time Saved  : 44.5 mins 		Percent Found: 100.0%
+
+Blocks: 511000-511099.txt
+Hits Freq: Counter({1: 1617}) 
+
+Num Tx: 43093 		Process Time: 172.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   27404 		Time Saved  : 62.8 mins 		Percent Found: 100.0%
+
+Blocks: 511100-511199.txt
+Hits Freq: Counter({1: 1724}) 
+
+Num Tx: 44672 		Process Time: 178.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   26798 		Time Saved  : 71.5 mins 		Percent Found: 100.0%
+
+Blocks: 511200-511299.txt
+Hits Freq: Counter({1: 1269}) 
+
+Num Tx: 40681 		Process Time: 162.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   23816 		Time Saved  : 67.4 mins 		Percent Found: 100.0%
+
+Blocks: 511300-511399.txt
+Hits Freq: Counter({1: 1657, 2: 1}) 
+
+Num Tx: 41795 		Process Time: 167.2 mins
+Twos:   33598 		Time Saved  : 32.8 mins 		Percent Found: 100.0%
+Ones:   27250 		Time Saved  : 58.2 mins 		Percent Found: 99.94%
+
+Blocks: 511400-511499.txt
+Hits Freq: Counter({1: 1734}) 
+
+Num Tx: 43851 		Process Time: 175.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   29426 		Time Saved  : 57.7 mins 		Percent Found: 100.0%
+
+Blocks: 511500-511599.txt
+Hits Freq: Counter({1: 2017, 2: 2}) 
+
+Num Tx: 42103 		Process Time: 168.4 mins
+Twos:   33978 		Time Saved  : 32.5 mins 		Percent Found: 100.0%
+Ones:   27420 		Time Saved  : 58.7 mins 		Percent Found: 99.901%
+
+Blocks: 511600-511699.txt
+Hits Freq: Counter({1: 2276, 2: 1}) 
+
+Num Tx: 44824 		Process Time: 179.3 mins
+Twos:   35819 		Time Saved  : 36.0 mins 		Percent Found: 100.0%
+Ones:   29165 		Time Saved  : 62.6 mins 		Percent Found: 99.956%
+
+Blocks: 511700-511799.txt
+Hits Freq: Counter({1: 1909, 2: 3, 3: 1}) 
+
+Num Tx: 30957 		Process Time: 123.8 mins
+Twos:   24700 		Time Saved  : 25.0 mins 		Percent Found: 99.948%
+Ones:   19990 		Time Saved  : 43.8 mins 		Percent Found: 99.791%
+
+Blocks: 511800-511899.txt
+Hits Freq: Counter({1: 2061, 2: 3}) 
+
+Num Tx: 37459 		Process Time: 149.8 mins
+Twos:   30907 		Time Saved  : 26.2 mins 		Percent Found: 100.0%
+Ones:   25335 		Time Saved  : 48.5 mins 		Percent Found: 99.855%
+
+Blocks: 511900-511999.txt
+Hits Freq: Counter({1: 2053, 2: 2}) 
+
+Num Tx: 32513 		Process Time: 130.1 mins
+Twos:   26236 		Time Saved  : 25.2 mins 		Percent Found: 100.0%
+Ones:   21264 		Time Saved  : 45.0 mins 		Percent Found: 99.903%
+
+Blocks: 512000-512099.txt
+Hits Freq: Counter({1: 2075}) 
+
+Num Tx: 36123 		Process Time: 144.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   23912 		Time Saved  : 48.9 mins 		Percent Found: 100.0%
+
+Blocks: 512100-512199.txt
+Hits Freq: Counter({1: 2961, 2: 4}) 
+
+Num Tx: 57753 		Process Time: 231.0 mins
+Twos:   45588 		Time Saved  : 48.6 mins 		Percent Found: 100.0%
+Ones:   36822 		Time Saved  : 83.7 mins 		Percent Found: 99.865%
+
+Blocks: 512200-512299.txt
+Hits Freq: Counter({1: 2081, 2: 2}) 
+
+Num Tx: 41988 		Process Time: 168.0 mins
+Twos:   33642 		Time Saved  : 33.4 mins 		Percent Found: 100.0%
+Ones:   27256 		Time Saved  : 59.0 mins 		Percent Found: 99.904%
+
+Blocks: 512300-512399.txt
+Hits Freq: Counter({1: 1659}) 
+
+Num Tx: 38685 		Process Time: 154.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   25565 		Time Saved  : 52.4 mins 		Percent Found: 100.0%
+
+Blocks: 512400-512499.txt
+Hits Freq: Counter({1: 2579}) 
+
+Num Tx: 51486 		Process Time: 205.9 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   33621 		Time Saved  : 71.4 mins 		Percent Found: 100.0%
+
+Blocks: 512500-512599.txt
+Hits Freq: Counter({1: 1489, 2: 3}) 
+
+Num Tx: 37215 		Process Time: 148.9 mins
+Twos:   29242 		Time Saved  : 31.9 mins 		Percent Found: 100.0%
+Ones:   23406 		Time Saved  : 55.3 mins 		Percent Found: 99.799%
+
+Blocks: 512600-512699.txt
+Hits Freq: Counter({1: 1740, 2: 2}) 
+
+Num Tx: 43589 		Process Time: 174.4 mins
+Twos:   34405 		Time Saved  : 36.8 mins 		Percent Found: 100.0%
+Ones:   27623 		Time Saved  : 63.9 mins 		Percent Found: 99.885%
+
+Blocks: 512700-512799.txt
+Hits Freq: Counter({1: 2244, 2: 1}) 
+
+Num Tx: 51187 		Process Time: 204.7 mins
+Twos:   41196 		Time Saved  : 39.9 mins 		Percent Found: 100.0%
+Ones:   32870 		Time Saved  : 73.2 mins 		Percent Found: 99.955%
+
+Blocks: 512800-512899.txt
+Hits Freq: Counter({1: 1532}) 
+
+Num Tx: 34640 		Process Time: 138.6 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   22838 		Time Saved  : 47.2 mins 		Percent Found: 100.0%
+
+Blocks: 512900-512999.txt
+Hits Freq: Counter({1: 1453}) 
+
+Num Tx: 36820 		Process Time: 147.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   24882 		Time Saved  : 47.8 mins 		Percent Found: 100.0%
+
+Blocks: 513000-513099.txt
+Hits Freq: Counter({1: 1493, 2: 3}) 
+
+Num Tx: 35038 		Process Time: 140.2 mins
+Twos:   28518 		Time Saved  : 26.1 mins 		Percent Found: 100.0%
+Ones:   23112 		Time Saved  : 47.8 mins 		Percent Found: 99.799%
+
+Blocks: 513100-513199.txt
+Hits Freq: Counter({1: 1357, 2: 2}) 
+
+Num Tx: 33058 		Process Time: 132.2 mins
+Twos:   26844 		Time Saved  : 24.8 mins 		Percent Found: 100.0%
+Ones:   21564 		Time Saved  : 45.9 mins 		Percent Found: 99.853%
+
+Blocks: 513200-513299.txt
+Hits Freq: Counter({1: 1553, 2: 2}) 
+
+Num Tx: 43527 		Process Time: 174.1 mins
+Twos:   35767 		Time Saved  : 31.0 mins 		Percent Found: 100.0%
+Ones:   28577 		Time Saved  : 59.8 mins 		Percent Found: 99.871%
+
+Blocks: 513300-513399.txt
+Hits Freq: Counter({1: 1691, 2: 1}) 
+
+Num Tx: 42386 		Process Time: 169.5 mins
+Twos:   34409 		Time Saved  : 31.9 mins 		Percent Found: 100.0%
+Ones:   28077 		Time Saved  : 57.2 mins 		Percent Found: 99.941%
+
+Blocks: 513400-513499.txt
+Hits Freq: Counter({1: 1542, 2: 1}) 
+
+Num Tx: 38790 		Process Time: 155.2 mins
+Twos:   31357 		Time Saved  : 29.8 mins 		Percent Found: 100.0%
+Ones:   25247 		Time Saved  : 54.2 mins 		Percent Found: 99.935%
+
+Blocks: 513500-513599.txt
+Hits Freq: Counter({1: 1769, 2: 1}) 
+
+Num Tx: 48150 		Process Time: 192.6 mins
+Twos:   38224 		Time Saved  : 39.7 mins 		Percent Found: 100.0%
+Ones:   30794 		Time Saved  : 69.4 mins 		Percent Found: 99.944%
+
+Blocks: 513600-513699.txt
+Hits Freq: Counter({1: 1920, 2: 2}) 
+
+Num Tx: 50937 		Process Time: 203.7 mins
+Twos:   41632 		Time Saved  : 37.2 mins 		Percent Found: 100.0%
+Ones:   33684 		Time Saved  : 69.0 mins 		Percent Found: 99.896%
+
+Blocks: 513700-513799.txt
+Hits Freq: Counter({1: 1313, 3: 1}) 
+
+Num Tx: 37288 		Process Time: 149.2 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   24712 		Time Saved  : 50.4 mins 		Percent Found: 99.924%
+
+Blocks: 513800-513899.txt
+Hits Freq: Counter({1: 1418, 2: 2}) 
+
+Num Tx: 42508 		Process Time: 170.0 mins
+Twos:   35002 		Time Saved  : 30.0 mins 		Percent Found: 100.0%
+Ones:   27848 		Time Saved  : 58.6 mins 		Percent Found: 99.859%
+
+Blocks: 513900-514000.txt
+Hits Freq: Counter({1: 1563, 2: 2}) 
+
+Num Tx: 41038 		Process Time: 164.2 mins
+Twos:   34488 		Time Saved  : 26.2 mins 		Percent Found: 100.0%
+Ones:   27634 		Time Saved  : 53.7 mins 		Percent Found: 99.872%
+
+Blocks: 514000-514099.txt
+Hits Freq: Counter({1: 1430}) 
+
+Num Tx: 30787 		Process Time: 123.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   20280 		Time Saved  : 42.0 mins 		Percent Found: 100.0%
+
+Blocks: 514100-514199.txt
+Hits Freq: Counter({1: 2430, 3: 1}) 
+
+Num Tx: 43919 		Process Time: 175.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   28829 		Time Saved  : 60.4 mins 		Percent Found: 99.959%
+
+Blocks: 514200-514299.txt
+Hits Freq: Counter({1: 2149, 2: 1}) 
+
+Num Tx: 48643 		Process Time: 194.6 mins
+Twos:   39931 		Time Saved  : 34.9 mins 		Percent Found: 100.0%
+Ones:   32105 		Time Saved  : 66.2 mins 		Percent Found: 99.953%
+
+Blocks: 514300-514399.txt
+Hits Freq: Counter({1: 2239, 2: 1}) 
+
+Num Tx: 51379 		Process Time: 205.5 mins
+Twos:   42017 		Time Saved  : 37.4 mins 		Percent Found: 100.0%
+Ones:   33411 		Time Saved  : 71.9 mins 		Percent Found: 99.955%
+
+Blocks: 514400-514499.txt
+Hits Freq: Counter({1: 1788, 2: 1}) 
+
+Num Tx: 42984 		Process Time: 171.9 mins
+Twos:   35914 		Time Saved  : 28.2 mins 		Percent Found: 100.0%
+Ones:   28676 		Time Saved  : 57.2 mins 		Percent Found: 99.944%
+
+Blocks: 514500-514599.txt
+Hits Freq: Counter({1: 2009}) 
+
+Num Tx: 54035 		Process Time: 216.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   35615 		Time Saved  : 73.6 mins 		Percent Found: 100.0%
+
+Blocks: 514600-514699.txt
+Hits Freq: Counter({1: 1264, 2: 1}) 
+
+Num Tx: 43153 		Process Time: 172.6 mins
+Twos:   34201 		Time Saved  : 35.8 mins 		Percent Found: 100.0%
+Ones:   27355 		Time Saved  : 63.2 mins 		Percent Found: 99.921%
+
+Blocks: 514700-514799.txt
+Hits Freq: Counter({1: 1555}) 
+
+Num Tx: 53725 		Process Time: 214.9 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   34705 		Time Saved  : 76.1 mins 		Percent Found: 100.0%
+
+Blocks: 519400-519499.txt
+Hits Freq: Counter({1: 2167}) 
+
+Num Tx: 49738 		Process Time: 199.0 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   32895 		Time Saved  : 67.4 mins 		Percent Found: 100.0%
+
+Blocks: 519500-519599.txt
+Hits Freq: Counter({1: 2527}) 
+
+Num Tx: 50961 		Process Time: 203.8 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   33297 		Time Saved  : 70.6 mins 		Percent Found: 100.0%
+
+Blocks: 519600-519699.txt
+Hits Freq: Counter({1: 2779}) 
+
+Num Tx: 63913 		Process Time: 255.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   40999 		Time Saved  : 91.7 mins 		Percent Found: 100.0%
+
+Blocks: 519700-519799.txt
+Hits Freq: Counter({1: 2977, 2: 2}) 
+
+Num Tx: 69407 		Process Time: 277.6 mins
+Twos:   56366 		Time Saved  : 52.1 mins 		Percent Found: 100.0%
+Ones:   44778 		Time Saved  : 98.5 mins 		Percent Found: 99.933%
+
+Blocks: 519800-519899.txt
+Hits Freq: Counter({1: 2612, 3: 1}) 
+
+Num Tx: 72776 		Process Time: 291.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   45588 		Time Saved  : 108.7 mins 		Percent Found: 99.962%
+
+Blocks: 519900-519999.txt
+Hits Freq: Counter({1: 1880, 2: 1}) 
+
+Num Tx: 58595 		Process Time: 234.4 mins
+Twos:   48018 		Time Saved  : 42.3 mins 		Percent Found: 100.0%
+Ones:   37470 		Time Saved  : 84.5 mins 		Percent Found: 99.947%
+
+Blocks: 520000-520099.txt
+Hits Freq: Counter({1: 1814}) 
+
+Num Tx: 73771 		Process Time: 295.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   46918 		Time Saved  : 107.4 mins 		Percent Found: 100.0%
+
+Blocks: 520100-520199.txt
+Hits Freq: Counter({1: 1789, 3: 1}) 
+
+Num Tx: 64101 		Process Time: 256.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   41443 		Time Saved  : 90.6 mins 		Percent Found: 99.944%
+
+Blocks: 520200-520299.txt
+Hits Freq: Counter({1: 1616}) 
+
+Num Tx: 58830 		Process Time: 235.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   38070 		Time Saved  : 83.0 mins 		Percent Found: 100.0%
+
+Blocks: 520300-520399.txt
+Hits Freq: Counter({1: 1491}) 
+
+Num Tx: 40360 		Process Time: 161.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   26352 		Time Saved  : 56.0 mins 		Percent Found: 100.0%
+
+Blocks: 520400-520499.txt
+Hits Freq: Counter({1: 1769, 2: 1}) 
+
+Num Tx: 55869 		Process Time: 223.5 mins
+Twos:   44521 		Time Saved  : 45.4 mins 		Percent Found: 100.0%
+Ones:   35305 		Time Saved  : 82.3 mins 		Percent Found: 99.944%
+
+Blocks: 520500-520599.txt
+Hits Freq: Counter({1: 1431}) 
+
+Num Tx: 51980 		Process Time: 207.9 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   33116 		Time Saved  : 75.4 mins 		Percent Found: 100.0%
+
+Blocks: 520600-520699.txt
+Hits Freq: Counter({1: 1454}) 
+
+Num Tx: 57168 		Process Time: 228.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   35894 		Time Saved  : 85.1 mins 		Percent Found: 100.0%
+
+Blocks: 520700-520799.txt
+Hits Freq: Counter({1: 1694}) 
+
+Num Tx: 67283 		Process Time: 269.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   37681 		Time Saved  : 118.4 mins 		Percent Found: 100.0%
+
+Blocks: 520800-520899.txt
+Hits Freq: Counter({1: 1614}) 
+
+Num Tx: 51417 		Process Time: 205.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   32504 		Time Saved  : 75.7 mins 		Percent Found: 100.0%
+
+Blocks: 520900-520999.txt
+Hits Freq: Counter({1: 2013, 2: 1}) 
+
+Num Tx: 63725 		Process Time: 254.9 mins
+Twos:   52544 		Time Saved  : 44.7 mins 		Percent Found: 100.0%
+Ones:   40958 		Time Saved  : 91.1 mins 		Percent Found: 99.95%
+
+Blocks: 521000-521099.txt
+Hits Freq: Counter({1: 2656}) 
+
+Num Tx: 72805 		Process Time: 291.2 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   46449 		Time Saved  : 105.4 mins 		Percent Found: 100.0%
+
+Blocks: 521100-521199.txt
+Hits Freq: Counter({1: 2277}) 
+
+Num Tx: 58090 		Process Time: 232.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   36899 		Time Saved  : 84.8 mins 		Percent Found: 100.0%
+
+Blocks: 521200-521299.txt
+Hits Freq: Counter({1: 2371}) 
+
+Num Tx: 67946 		Process Time: 271.8 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   43779 		Time Saved  : 96.7 mins 		Percent Found: 100.0%
+
+Blocks: 521300-521399.txt
+Hits Freq: Counter({1: 2149}) 
+
+Num Tx: 53036 		Process Time: 212.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   35375 		Time Saved  : 70.6 mins 		Percent Found: 100.0%
+
+Blocks: 521400-521499.txt
+Hits Freq: Counter({1: 1912}) 
+
+Num Tx: 52336 		Process Time: 209.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   33585 		Time Saved  : 75.0 mins 		Percent Found: 100.0%
+
+Blocks: 521500-521599.txt
+Hits Freq: Counter({1: 1515}) 
+
+Num Tx: 49264 		Process Time: 197.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   32194 		Time Saved  : 68.3 mins 		Percent Found: 100.0%
+
+Blocks: 521600-521699.txt
+Hits Freq: Counter({1: 1923}) 
+
+Num Tx: 67427 		Process Time: 269.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   44285 		Time Saved  : 92.6 mins 		Percent Found: 100.0%
+
+Blocks: 521700-521799.txt
+Hits Freq: Counter({1: 1840, 2: 2}) 
+
+Num Tx: 64779 		Process Time: 259.1 mins
+Twos:   52268 		Time Saved  : 50.0 mins 		Percent Found: 100.0%
+Ones:   40838 		Time Saved  : 95.7 mins 		Percent Found: 99.891%
+
+Blocks: 521800-521899.txt
+Hits Freq: Counter({1: 1439}) 
+
+Num Tx: 54168 		Process Time: 216.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   35143 		Time Saved  : 76.1 mins 		Percent Found: 100.0%
+
+Blocks: 521900-521999.txt
+Hits Freq: Counter({1: 1539}) 
+
+Num Tx: 58004 		Process Time: 232.0 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   38042 		Time Saved  : 79.8 mins 		Percent Found: 100.0%
+
+Blocks: 522000-522099.txt
+Hits Freq: Counter({1: 1459}) 
+
+Num Tx: 52801 		Process Time: 211.2 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   34139 		Time Saved  : 74.6 mins 		Percent Found: 100.0%
+
+Blocks: 522100-522199.txt
+Hits Freq: Counter({1: 2036}) 
+
+Num Tx: 68825 		Process Time: 275.3 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   43721 		Time Saved  : 100.4 mins 		Percent Found: 100.0%
+
+Blocks: 522200-522299.txt
+Hits Freq: Counter({1: 1969}) 
+
+Num Tx: 72017 		Process Time: 288.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   46116 		Time Saved  : 103.6 mins 		Percent Found: 100.0%
+
+Blocks: 522300-522399.txt
+Hits Freq: Counter({1: 1685, 2: 1}) 
+
+Num Tx: 52097 		Process Time: 208.4 mins
+Twos:   42808 		Time Saved  : 37.2 mins 		Percent Found: 100.0%
+Ones:   33850 		Time Saved  : 73.0 mins 		Percent Found: 99.941%
+
+Blocks: 522400-522499.txt
+Hits Freq: Counter({1: 1138, 2: 1}) 
+
+Num Tx: 40524 		Process Time: 162.1 mins
+Twos:   34330 		Time Saved  : 24.8 mins 		Percent Found: 100.0%
+Ones:   27064 		Time Saved  : 53.8 mins 		Percent Found: 99.912%
+
+Blocks: 522500-522599.txt
+Hits Freq: Counter({1: 1730}) 
+
+Num Tx: 59497 		Process Time: 238.0 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   38505 		Time Saved  : 84.0 mins 		Percent Found: 100.0%
+
+Blocks: 522600-522699.txt
+Hits Freq: Counter({1: 1876}) 
+
+Num Tx: 72732 		Process Time: 290.9 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   47623 		Time Saved  : 100.4 mins 		Percent Found: 100.0%
+
+Blocks: 522700-522799.txt
+Hits Freq: Counter({1: 1220}) 
+
+Num Tx: 55224 		Process Time: 220.9 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   34201 		Time Saved  : 84.1 mins 		Percent Found: 100.0%
+
+Blocks: 522800-522899.txt
+Hits Freq: Counter({1: 1541}) 
+
+Num Tx: 64485 		Process Time: 257.9 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   42024 		Time Saved  : 89.8 mins 		Percent Found: 100.0%
+
+Blocks: 522900-522999.txt
+Hits Freq: Counter({1: 1340, 2: 1}) 
+
+Num Tx: 58915 		Process Time: 235.7 mins
+Twos:   47869 		Time Saved  : 44.2 mins 		Percent Found: 100.0%
+Ones:   38501 		Time Saved  : 81.7 mins 		Percent Found: 99.925%
+
+Blocks: 523000-523099.txt
+Hits Freq: Counter({1: 1196}) 
+
+Num Tx: 46622 		Process Time: 186.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   29963 		Time Saved  : 66.6 mins 		Percent Found: 100.0%
+
+Blocks: 523100-523199.txt
+Hits Freq: Counter({1: 1377}) 
+
+Num Tx: 78276 		Process Time: 313.1 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   50320 		Time Saved  : 111.8 mins 		Percent Found: 100.0%
+
+Blocks: 523200-523299.txt
+Hits Freq: Counter({1: 1355, 2: 1}) 
+
+Num Tx: 66887 		Process Time: 267.5 mins
+Twos:   53791 		Time Saved  : 52.3 mins 		Percent Found: 100.0%
+Ones:   43133 		Time Saved  : 95.0 mins 		Percent Found: 99.926%
+
+Blocks: 523300-523399.txt
+Hits Freq: Counter({1: 981}) 
+
+Num Tx: 47610 		Process Time: 190.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   30726 		Time Saved  : 67.5 mins 		Percent Found: 100.0%
+
+Blocks: 523400-523499.txt
+Hits Freq: Counter({1: 1032}) 
+
+Num Tx: 51133 		Process Time: 204.5 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   33960 		Time Saved  : 68.7 mins 		Percent Found: 100.0%
+
+Blocks: 523500-523599.txt
+Hits Freq: Counter({1: 1360}) 
+
+Num Tx: 59182 		Process Time: 236.7 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   36227 		Time Saved  : 91.8 mins 		Percent Found: 100.0%
+
+Blocks: 523600-523699.txt
+Hits Freq: Counter({1: 1106, 2: 1}) 
+
+Num Tx: 63379 		Process Time: 253.5 mins
+Twos:   51428 		Time Saved  : 47.8 mins 		Percent Found: 100.0%
+Ones:   41006 		Time Saved  : 89.5 mins 		Percent Found: 99.91%
+
+Blocks: 523700-523799.txt
+Hits Freq: Counter({1: 951}) 
+
+Num Tx: 51600 		Process Time: 206.4 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   33031 		Time Saved  : 74.3 mins 		Percent Found: 100.0%
+
+Blocks: 523800-523899.txt
+Hits Freq: Counter({1: 1275}) 
+
+Num Tx: 63738 		Process Time: 255.0 mins
+Twos:   0 		Time Saved  : 0 mins 		Percent Found: None
+Ones:   41735 		Time Saved  : 88.1 mins 		Percent Found: 100.0%
+
+
+Total txData : 10,341,685
+
+Hits Freq: Counter({1: 775419, 2: 729, 3: 78, 4: 17, 5: 9, 6: 2, 7: 2, 15: 1}) 
+
+
+Total Time Saved (Twos): 87.1 hrs 		Percent Found (Twos): 99.986%
+Total Time Saved (Ones): 228.5 hrs 		Percent Found (Ones): 99.892%
