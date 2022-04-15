@@ -1,5 +1,5 @@
 # ShapeShift-API-Project
-Check blockchain data against the ShapeShift API for transaction history. Useful for blockchain analysis of "chain hopping" activity, see the following articles for real-world examples:
+Check blockchain data against the ShapeShift API for transaction history. Useful for analysis of "chain hopping" activity, see the following articles for real-world examples:
 
 • https://www.technologyreview.com/2019/08/22/133272/some-crypto-criminals-think-jumping-across-blockchains-covers-their-tracks-big-mistake/
 
