@@ -3,7 +3,12 @@ Check blockchain data against the ShapeShift API for transaction history
 
 This repo is intended only to demonstrate my work product. The scripts will only work if modified with your own credentials.
 
-`getTxData_BTC_RPC.py` will connect to your Bitcoin Core node to collect blockchain data and save to files.
+The process is split into two parts:
+
+1) gathering transaction data from a given blockchain (example here is Bitcoin)
+2) checking the data against the ShapeShift API
+
+`getTxData_BTC_RPC.py` will connect to your Bitcoin Core node to collect blockchain data and create txData files.
 `droplet.py` will load the txData, query the ShapeShift API, and upload results to a MongoDB.
 
 `Bitcoin txData Test Results.txt` shows results from some tests run to find heuristics which reduce the time needed to scrape the API.
