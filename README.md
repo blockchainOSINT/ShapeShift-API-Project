@@ -13,7 +13,7 @@ The process is split into two parts:
 
 `Bitcoin txData Test Results.txt` shows results from some tests run to find heuristics which reduce the time needed to scrape the API.
 
-`ShapeShift_sample_results.txt` contains a small sample of the 6 million+ transactions scraped from 2014-2021, from the following blockchains: 
+`ShapeShift_sample_results.txt` contains a small sample of the 6 million+ ShapeShift transactions scraped from 2014-2021, from the following blockchains: 
 
 `pprint(Counter(outgoingTypes))
 Counter({'BTC': 1472575,
