@@ -14,6 +14,7 @@ The process is split into two parts:
 2) checking the data against the ShapeShift API
 
 `getTxData_BTC_RPC.py` will connect to your Bitcoin Core node to collect transaction data and create txData files.
+
 `droplet.py` will load the txData, query the ShapeShift API, and upload results to a MongoDB.
 
 `Bitcoin txData Test Results.txt` shows results from some tests run to find heuristics which reduce the time needed to scrape the API.
